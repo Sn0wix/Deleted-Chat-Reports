@@ -1,0 +1,4 @@
+name: DeletedChatReports
+version: '${project.version}'
+main: net.sn0wix_.DeletedChatReportsMain
+api-version: 1.20
